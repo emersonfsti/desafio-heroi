@@ -7,7 +7,7 @@
 
 ## Emerson Felix de Souza
 
-No projeto "Classificador de Nível de Herói", criado por mim, Emerson Felix, em 12/07/2024, desenvolvi um script em JavaScript que classifica heróis com base na quantidade de experiência (XP) acumulada. Utilizei um laço de repetição for para incrementar a XP do herói em 500 a cada iteração, até completar 21 iterações. Com uma estrutura de decisão switch case, determinei e exibi a classificação do herói em categorias como Ferro, Bronze, Prata, Ouro, Platina, Ascendente, Imortal e Radiante, conforme a XP acumulada em cada etapa.
+> No projeto "Classificador de Nível de Herói", criado por mim, Emerson Felix, em 12/07/2024, desenvolvi um script em JavaScript que classifica heróis com base na quantidade de experiência (XP) acumulada. Utilizei um laço de repetição for para incrementar a XP do herói em 500 a cada iteração, até completar 21 iterações. Com uma estrutura de decisão switch case, determinei e exibi a classificação do herói em categorias como Ferro, Bronze, Prata, Ouro, Platina, Ascendente, Imortal e Radiante, conforme a XP acumulada em cada etapa.
 
 # Classificador de Nível de Herói
 
