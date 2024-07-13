@@ -1,6 +1,13 @@
-/*
-    # Desafio Classificador de nível de Herói
-*/
+/* ----------------------------------------------------------------------------------------
+  Data de criação: 12/07/2024
+  Hora de criação: 22:00
+  Autor: Emerson Felix
+  Descrição: Este script classifica um herói com base na sua quantidade de experiência (XP),
+  utilizando laços de repetição e estruturas de decisão (switch case) para determinar
+  a categoria do herói. A XP é incrementada em 500 a cada iteração.
+ ===========================================================================================*/
+
+// Declaração de variaveis
 let nomeHeroi = "Superman";
 let xpHeroi = 0; // Exemplo de XP inicial
 
