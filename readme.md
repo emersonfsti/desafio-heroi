@@ -1,7 +1,11 @@
-# Formação Lógica de Programação
-![Logo da Minha Aplicação]()
-
+<div>
+<img src="https://github.com/emersonfsti/desafio-heroi/blob/main/img/logoLogicaDIO.png?raw=true" alt="Logo Logica de Programação DIO" style="float:left; margin-right:10px;" width="150" height="125"/>
+<h1>Formação Lógica de Programação</h1>
+</div>
 <hr>
+<br>
+
+## Emerson Felix de Souza
 
 # Classificador de Nível de Herói
 
