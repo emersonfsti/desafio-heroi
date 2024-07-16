@@ -1,5 +1,5 @@
 /* ----------------------------------------------------------------------------------------
-  Data de criação: 12/07/2024
+  Data de criação: 15/07/2024
   Hora de criação: 22:00
   Autor: Emerson Felix
   Descrição: Este script classifica um herói com base na sua quantidade de experiência (XP),
